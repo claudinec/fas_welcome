@@ -1,0 +1,3 @@
+<?php
+
+include_once('fas_welcome.features.inc');
